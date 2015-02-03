@@ -1,0 +1,53 @@
+div.block.block_wam_login 
+{ 
+	border:none; 
+	border-radius:10px; 
+	webkit-border-radius:10px; 
+}
+
+div.block.block_wam_login .header 
+{
+	background-image:none;
+	background-color:#f8d964; 
+	border-top-left-radius:15px; 
+	border-top-right-radius:15px;
+	min-height:26px;
+	margin:0;
+}
+div.block.block_wam_login .block-hider-hide, div.block.block_wam_login .block-hider-show, div.block.block_wam_login .moveto
+{
+	background-color:#e3e3e3;
+}
+div.block.block_wam_login .header h2
+{
+	display:none;
+}
+div.block.block_wam_login iframe
+{
+	border:none;
+	width:95%;
+	display:block;
+	margin:auto;
+	overflow:hidden;
+}
+div.block.block_wam_login .corner-box
+{
+	padding:0;
+	background-image:none;
+}
+div.block.block_wam_login .corner-box .rounded-corner 
+{
+	background-image:none;
+}
+div.block.block_wam_login iframe html
+{
+	overflow:hidden;
+}
+div.block.block_wam_login .content 
+{ 
+	background-color:#f8d964; 
+	border-bottom-left-radius:10px; 
+	border-bottom-right-radius:10px;
+	padding-bottom:10px;
+	margin:0;
+}
